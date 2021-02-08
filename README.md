@@ -1,2 +1,8 @@
 # Project-1
-Electric Vehicle Sales in Washington State 
+
+
+
+
+Data: Electric Vehicles Registerd in Washington State as of January 2021
+
+
