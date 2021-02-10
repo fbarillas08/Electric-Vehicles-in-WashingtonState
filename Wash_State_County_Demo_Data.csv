@@ -1,9 +1,9 @@
-﻿County ,Land Surface Area,Population,Public Charging Station ,EVs_Per_County,Electric_ Cost_KWhr
+County ,Land Surface Area,Population,Public Charging Station ,EVs_Per_County,Electric_ Cost_KWhr
 Adams,"1,924.98","18,951",3,8,7.65
 Asotin,636.21,"21,955",1,13,9.05
 Benton,"1,700.38","182,053",16,443,7.51
 Chelan,"2,920.52","73,664",14,263,3.22
-Clallam,"1,738.33","72,024",19,280,7.80
+Clallam,"1,738.33","72,024",19,280,7.8
 Clark,629,"438,272",58,2284,9.18
 Columbia,868.63,"4,031",7,5,8.23
 Cowlitz,"1,140.12","102,072",31,179,7.29
@@ -12,7 +12,7 @@ Ferry,"2,203.16","7,657",1,7,9.37
 Franklin,"1,242.17","84,508",4,76,7.47
 Garfield,710.69,"2,240",0,0,8.23
 Grant,"2,679.51","91,458",10,87,5.37
-Grays Harbor,"1,902.03","71,734",7,128,8.40
+Grays Harbor,"1,902.03","71,734",7,128,8.4
 Island,208.45,"78,951",9,492,5.18
 Jefferson,"1,803.70","29,978",11,274,10.36
 King,"2,115.56","2,008,997",738,26663,10.17
